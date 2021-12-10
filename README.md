@@ -1,1 +1,1 @@
-# minecraft-help
+# minecraft-help est un projet open-source
